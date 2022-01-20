@@ -55,18 +55,10 @@ const AboutPage = () => {
                     <Col>
                         <Card border="light" id="about">
                             <h1>About</h1>
-                            <p>Products Inventory is an application made using React JS.<br />
-                            It uses Bootstrap for a responsive User Interface.
-                            You can start off by viewing our products in our inventory, search there to find the product you're looking for.
-                            There's a bar chart which shows our top viewed products for a better User Experience.
-                            There's also an option to customize the fields you wish to see in the products list page.
-                            This app will open up more features for you, once you signin into our app. 
-                            For that you'll need to register into our app first, by providing a few basic details.
-                            Once successfully registered, you can sign in when you're authenticated.
-                            When you become an authenticated user, you can do a lot of things, like, viewing product details, adding products, deleting or modifying them.
-                            You also have the option of deleting multiple products in one go. 
-                            You can also view about yourself by clicking on your name, on the navigation bar.
-                            There are a lot of features in here, so what are you waiting for! Come, press that blue Sign in or Register button and enjoy Products Inventory!  
+                            <p>Products Inventory <br />
+                            Inventory management deals with the processes that go into ordering, storing and profiting from goods traveling down the supply chain from manufacturer to customer. This sounds simple, but there are many critical daily processes that go into maintaining an organized and efficient inventory. Keeping a balanced equilibrium between all the moving parts of a storage system is difficult. In fact, a normal retail establishment’s inventory is only accurate about 63% of the time.
+
+Combatting statistics like this requires a well thought out inventory management strategy and software platform. Depending on the firm, the items they store, the regulations they have to follow and the size of their operation, they may require multiple plans and systems to keep things running. Let’s start with some of the different types of inventory and how they can affect formulating a storage strategy.
                             </p>
                         </Card>
                     </Col>
@@ -91,7 +83,7 @@ const AboutPage = () => {
             <footer>
             <Navbar expand="lg" variant="dark" bg="dark" className="mt-5 mb-0">
                 <Container>
-                    <Navbar.Brand href="#">A Project made using React JS by <a href="https://www.linkedin.com/in/swarajlaha/">Swaraj Laha</a></Navbar.Brand>
+                    <Navbar.Brand href="#"><a href="https://www.linkedin.com/in/darlington-chukwuemeka-nwanna-6916451a8/">Darlington Emeka </a></Navbar.Brand>
                 </Container>
             </Navbar>
         </footer>
